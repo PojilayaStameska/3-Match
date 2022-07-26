@@ -1,0 +1,55 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.hpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\FieldDraw.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/CircleShape.hpp: No such file or directory,
+  Bat.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Enemy.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Ghost.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Skeleton.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Slime.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Spider.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Entity.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  EntityList.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  FieldDraw.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\FieldDraw.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/CircleShape.hpp: No such file or directory,
+  Hero.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  WindowsHelper.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\WindowsHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Window/WindowHandle.hpp: No such file or directory,
+  Connection.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Field.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  CloverTile.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  FireTile.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  HeartTile.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  ShieldTile.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  ThunderTile.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  ArahnidNestEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Компиляция...
+  SlimeRanchEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  TileFactory.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Field\Tile\ITile.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Color.hpp: No such file or directory,
+  VampireMansionEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  СemeteryEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Entity.hpp(7,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Main.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.hpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\FieldDraw.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/CircleShape.hpp: No such file or directory,
+  Utility.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Utility\Utility.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,

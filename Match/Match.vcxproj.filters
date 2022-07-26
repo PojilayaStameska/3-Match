@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Factory">
+      <UniqueIdentifier>{1802a141-d4fa-4d02-80e7-a3d545c249fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Factory">
+      <UniqueIdentifier>{7e8251bc-62f2-4f5f-b257-8661b338f7f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy">
+      <UniqueIdentifier>{5805a7d6-c9ed-4ebb-a01b-5b6ea4d41c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Enemy">
+      <UniqueIdentifier>{c25da10e-c531-473d-857c-e894d8d8b124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Tiles">
+      <UniqueIdentifier>{77b7c52f-04ca-4cde-a993-69f82d67a547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Tiles">
+      <UniqueIdentifier>{2e796f8c-0a1d-4001-a1f6-dc71617a7660}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application\Application.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\WindowsHelper.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Utility.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Rng.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\FieldDraw.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\SlimeRanchEnemyFactory.cpp">
+      <Filter>Исходные файлы\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\VampireMansionEnemyFactory.cpp">
+      <Filter>Исходные файлы\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\СemeteryEnemyFactory.cpp">
+      <Filter>Исходные файлы\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Field.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\ArahnidNestEnemyFactory.cpp">
+      <Filter>Исходные файлы\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Ghost.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Slime.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Spider.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Skeleton.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Bat.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Enemy.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Entity.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Hero.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Tile\CloverTile.cpp">
+      <Filter>Исходные файлы\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Tile\FireTile.cpp">
+      <Filter>Исходные файлы\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Tile\HeartTile.cpp">
+      <Filter>Исходные файлы\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Tile\ShieldTile.cpp">
+      <Filter>Исходные файлы\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Tile\ThunderTile.cpp">
+      <Filter>Исходные файлы\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\TileFactory.cpp">
+      <Filter>Исходные файлы\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Connection.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\EntityList.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application\Application.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\WindowsHelper.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Utility.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Rng.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\FieldDraw.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Field.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\ArahnidNestEnemyFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\IEnemyFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\SlimeRanchEnemyFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\VampireMansionEnemyFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\СemeteryEnemyFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Enemy.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Bat.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Ghost.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Skeleton.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Slime.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Spider.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Entity.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Hero.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\CloverTile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\ShieldTile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\ThunderTile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\HeartTile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\FireTile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Tile\ITile.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\TileList.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Factories\TileFactory.hpp">
+      <Filter>Файлы заголовков\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="TileEnum.hpp">
+      <Filter>Файлы заголовков\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageEnum.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Connection.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\EntityList.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

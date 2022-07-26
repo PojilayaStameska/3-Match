@@ -1,0 +1,98 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.hpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Hero.hpp(72,65): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Hero.hpp(72,85): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(164,54): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(165,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(165,54): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(166,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(185,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(187,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(189,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(190,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(191,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(192,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(196,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(222,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(231,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(243,90): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Application.cpp(243,70): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  EntityList.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Hero.hpp(72,65): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\Hero.hpp(72,85): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(14,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(15,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(21,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(22,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(102,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application\EntityList.cpp(103,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Lab2OOP.vcxproj -> C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Debug\Lab2OOP.exe

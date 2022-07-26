@@ -1,0 +1,7 @@
+﻿  WindowsHelper.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab1OOP\lab1OOP\Application\WindowsHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Window/WindowHandle.hpp: No such file or directory,
+  Application.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Application.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/RenderWindow.hpp: No such file or directory,
+  Main.cpp
+C:\Users\Lenovo\Desktop\cpp\Lab2OOP\Lab2OOP\Main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: Application/Application.hpp: No such file or directory,
+  Создание кода...
